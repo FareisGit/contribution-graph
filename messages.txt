@@ -1,0 +1,74 @@
+wip
+small tweak
+fix typo
+ok that typo again
+cleanup
+tidy up
+nicer spacing
+fix off-by-one
+of course it was off by one
+revert that, broke the W
+W looked like a U, fixed
+narrow the H a bit
+kern the exclamation mark
+D was lopsided
+R leg too short
+tighten letter gaps
+drop a column, it overflowed
+fits now
+move padding row to the top
+centre it properly
+stop hardcoding the start date
+compute the sunday instead
+timezones, obviously
+pin the timestamp to utc
+faster: use commit-tree
+no more index churn
+that shaved 40 seconds
+rename the grid vars
+better name for the raster fn
+docstring
+more docstring
+comments nobody will read
+readme wording
+reword the readme again
+add the ascii preview
+preview was upside down
+rows start at sunday, not monday
+add a verifier
+verify against the real log
+trust nothing, check the dates
+guard against future dates
+bail out if it would overflow
+bump commits per pixel
+dial it back down
+colour is relative anyway
+learned that the hard way
+handle the space glyph
+space was eating two columns
+variable width font now
+fixed width was never going to fit
+add refresh script
+re-centre after a few weeks
+the window slides, annoying
+note the drift in the readme
+quote the paths properly
+spaces in paths, always
+shellcheck quiet now
+set -euo pipefail
+chmod +x
+forgot the shebang
+abs paths, cd was biting me
+seed the rng
+make it reproducible
+same output twice, good
+minor
+nit
+whitespace
+trailing newline
+gitignore
+remove stray file
+oops
+fix oops
+last one
+actually last one
